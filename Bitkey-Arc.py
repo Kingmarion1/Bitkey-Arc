@@ -1,8 +1,8 @@
-print(=*20)
+print("=" * 20)
 print(" welcome to the Bitcoin pkey 🗝️ finder")
 print("Anchor⚓: @PROMINENT_MAIRO")
 print("incase you found!!. @t.me/jahbless_02")
-print(=*20)
+print("=" * 20)
 
 import requests, re, json, base58, random, os, sys, binascii, bip32utils, codecs, argparse
 from mnemonic import Mnemonic
