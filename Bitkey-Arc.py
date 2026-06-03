@@ -1,5 +1,5 @@
 print("=*20")
-primt(" welcome to the Bitcoin pkey 🗝️ finder")
+print(" welcome to the Bitcoin pkey 🗝️ finder")
 print("Anchor⚓: @PROMINENT_MAIRO")
 print("incase you found!!. @t.me/jahbless_02")
 print("=*20")
