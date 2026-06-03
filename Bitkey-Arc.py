@@ -75,7 +75,7 @@ def GetMnemonic():
 parser = argparse.ArgumentParser()
 
 parser.add_argument('-r', '--rich', type=str, dest='richFile', required=True, help="Rich File Name With .txt Format / Example: python3 -r richlist_file.txt")
-parser.add_argument('-o', '--out', type=str, dest='outFound', required=True, help='Save Wallet Details in this file / Example: python3 -r richList_file.txt -o FoundPkeys.txt')
+parser.add_argument('-o', '--out', type=str, dest='outFound', required=True, help='Save Wallet Details in this file / Example: python3 -r richlist_file.txt -o FoundPkeys.txt')
 parser.add_argument('-t', '--thread', type=int, default=4, dest='thread', help='Thread Core Hunting , Default: 4')
 args = parser.parse_args()
 
